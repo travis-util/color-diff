@@ -1,2 +1,2 @@
 script:
-- diff --color a.txt b.txt
+- diff --color --help
