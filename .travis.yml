@@ -1,2 +1,2 @@
 script:
-- ! (diff --color --help)
+- ( ! diff --color --help)
