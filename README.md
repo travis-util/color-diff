@@ -1,6 +1,8 @@
 # color-diff
 Test if diff accepts --color option
 
+[![Build Status](https://travis-ci.org/travis-util/color-diff.svg?branch=master)](https://travis-ci.org/travis-util/color-diff)
+
 # Status: Travis inverted to know when recent enough version of diff will be available on Travis
 It will fail the day a recent enough version is available.
 
